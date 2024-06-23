@@ -28,6 +28,7 @@ export default defineConfig({
         items: [
           { text: 'Example', link: '/example' },
           { text: 'John', link: '/john' },
+          { text: 'Jenna', link: '/jen' },
           // ...
         ],
       },
